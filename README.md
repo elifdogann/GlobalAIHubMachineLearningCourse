@@ -10,6 +10,5 @@
 Predicting diamond prices(Classification)
 
 ### Certification
-![](img/![(https://user-images.githubusercontent.com/71514474/113122537-69668c80-921c-11eb-9030-342293717f75.png)
-79992364045300.png)
+![](img/![(https://user-images.githubusercontent.com/71514474/113122537-69668c80-921c-11eb-9030-342293717f75.png))
 
