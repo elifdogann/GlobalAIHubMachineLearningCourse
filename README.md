@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GlobalAIHubMachineLearningCourse
 ![](img/newlogo.png)
 
 **Course Date:** 26.03.2021 
@@ -6,19 +6,9 @@
 **Surname:** Doğan  
 **Email:** elliffdogann@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
-
 ## Project Name
-Description of your project.
-
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
+Predicting diamond prices(Classification)
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/79992364045300.png)
 
